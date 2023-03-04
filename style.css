@@ -1,0 +1,191 @@
+.home{
+    display: flex;
+    margin-left: 50%;
+    justify-content: space-between;
+}
+.red{
+    margin-left: 5%;
+    padding: 10px 15px;
+}
+.head{
+    margin-top: 10%;
+    margin-right: 10%;
+}
+.success{
+
+}
+.all{
+    display: flex;
+}
+.house{
+    background-image: url("bout.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 80%;
+    height: 800px;
+
+}
+.navb{
+    display: flex;
+    text-transform: uppercase;
+}
+nav{
+}
+ nav a{
+text-decoration: none;  
+padding-left: 20px;
+}
+ul{
+    list-style: none;
+    display: flex;
+
+}
+.web{
+    display: flex;
+}
+
+.icon{
+    height: 50px;
+    color: darkblue;
+    margin-left: 5%;
+    width: 90px;
+}
+.store{
+    color: red;
+}
+.image{
+    display: flex;
+    /* width: 20px;
+    height: 30px; */
+    margin-left: 10%;
+}
+img{
+    /* width: 300px;
+justify-content: space-between;
+padding-left: 80px; */
+width: 90%;
+height: 400px;
+padding-left: 20px;
+
+}
+.fut{
+    margin-left: 50%;
+}
+.product{
+display: flex;
+}
+.feature{
+margin-left: 90%;
+}
+.cloth{
+    display: flex;
+    background-color: darkgray;
+}
+h1{
+    margin-left: 40%;
+}
+.late{
+    display: flex;
+}
+.analog{
+    display: flex;
+}
+.sma{
+    color: black;
+}
+.buy{
+    border-radius: 25px;
+    background-color: red;
+    padding: 15px 18px;
+}
+.foot{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    color: beige;
+}
+.last{
+    color: beige;
+    background-color: black;
+}
+.no{
+    border-radius: 25px;
+    background-color: red;
+    color: bisque;
+    padding: 15px 18px;
+}
+.bod{
+    background-color: grey;
+}
+ion-icon{
+    color: red;
+}
+.hood{
+    color: red;
+}
+.page{
+    margin: 80px auto 80px;
+}
+.page span{
+    display: inline-block;
+    border: 1px solid red;
+    margin-left: 10px;
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    line-height: 40px;
+    cursor: pointer;
+}
+.page span:hover{
+    background: red;
+    color: white;
+}
+.lor{
+    display: flex;
+    justify-content: space-between;
+
+}
+.lady1{
+width: 70px;
+height: 50px;
+}
+.lady2{
+    width: 70px;
+    height: 50px;
+}
+.lady3{
+    width: 70px;
+    height: 50px;
+}
+.quote{
+    font-size: xx-large;
+    color: red;
+}
+button:hover{
+    background-color: red;
+}
+.heading{
+    color: brown;
+    margin-left: 50%;
+}
+label{
+    color: blue;
+}
+.log{
+    border-radius: 35px;
+    padding: 20px 25px;
+    background-color: cornflowerblue;
+}
+.lab{
+    margin-left: 50%;
+    font-size: large;
+    font-weight: bolder;
+}
+.lab:hover{
+    color: red;
+}
+.head{
+    display: flex;
+}
+
+
