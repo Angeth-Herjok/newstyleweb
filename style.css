@@ -176,16 +176,6 @@ label{
     padding: 20px 25px;
     background-color: cornflowerblue;
 }
-.lab{
-    margin-left: 50%;
-    font-size: large;
-    font-weight: bolder;
-}
-.lab:hover{
-    color: red;
-}
-.head{
-    display: flex;
-}
+
 
 
